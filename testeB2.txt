@@ -1,0 +1,50 @@
+Corrida: 0, Interacao: 410, Minimos: ( 0.000519797 , 1.95016e-005 ), Funcao: 3.87993e-006
+Tempo: 132
+
+Sucesso, Tempo: -1867
+
+Corrida: 0, Interacao: 514, Minimos: ( -0.000290992 , -0.00018853 ), Funcao: 2.12591e-006
+Tempo: 174
+
+Sucesso, Tempo: -1824
+
+Corrida: 0, Interacao: 433, Minimos: ( -0.00039393 , -0.00029332 ), Funcao: 4.43281e-006
+Tempo: 153
+
+Sucesso, Tempo: -1846
+
+Corrida: 0, Interacao: 494, Minimos: ( 9.15193e-005 , -0.000442381 ), Funcao: 5.14694e-006
+Tempo: 160
+
+Sucesso, Tempo: -1839
+
+Corrida: 0, Interacao: 482, Minimos: ( 0.000239876 , -0.000200176 ), Funcao: 1.85349e-006
+Tempo: 156
+
+Sucesso, Tempo: -1842
+
+Corrida: 0, Interacao: 326, Minimos: ( 0.000111567 , -0.000335299 ), Funcao: 3.06617e-006
+Tempo: 92
+
+Sucesso, Tempo: -1907
+
+Corrida: 0, Interacao: 464, Minimos: ( -6.67682e-005 , 0.000367852 ), Funcao: 3.5397e-006
+Tempo: 129
+
+Sucesso, Tempo: -1870
+
+Corrida: 0, Interacao: 461, Minimos: ( 2.94601e-005 , -0.000171368 ), Funcao: 7.66787e-007
+Tempo: 148
+
+Sucesso, Tempo: -1851
+
+Corrida: 0, Interacao: 332, Minimos: ( 7.88033e-005 , 0.000111185 ), Funcao: 4.06496e-007
+Tempo: 98
+
+Sucesso, Tempo: -1900
+
+Corrida: 0, Interacao: 416, Minimos: ( -0.000190456 , -0.000203222 ), Funcao: 1.58044e-006
+Tempo: 121
+
+Sucesso, Tempo: -1878
+
