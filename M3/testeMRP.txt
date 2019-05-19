@@ -1,0 +1,70 @@
+Corrida: 0, Interacao: 1163, Minimos: ( 0.3416 , 0.116481 ), Funcao: 4.47358e-006
+Tempo: 357
+Corrida: 1, Interacao: 2206, Minimos: ( 0.999861 , 0.999873 ), Funcao: 2.75735e-006
+Tempo: 1316
+
+Sucesso, Tempo: 1673
+
+Corrida: 0, Interacao: 2256, Minimos: ( 0.341963 , 0.116705 ), Funcao: 8.37782e-006
+Tempo: 732
+Corrida: 1, Interacao: 1144, Minimos: ( 1.00009 , 1.00009 ), Funcao: 1.11385e-006
+Tempo: 628
+
+Sucesso, Tempo: 1360
+
+Corrida: 0, Interacao: 1548, Minimos: ( 0.341471 , 0.116432 ), Funcao: 2.89588e-006
+Tempo: 567
+Corrida: 1, Interacao: 1729, Minimos: ( 1.00011 , 1.00026 ), Funcao: 2.72672e-006
+Tempo: 922
+
+Sucesso, Tempo: 1489
+
+Corrida: 0, Interacao: 202, Minimos: ( 0.341817 , 0.116614 ), Funcao: 6.29905e-006
+Tempo: 79
+Corrida: 1, Interacao: 1768, Minimos: ( 1.00004 , 0.999934 ), Funcao: 2.51741e-006
+Tempo: 924
+
+Sucesso, Tempo: 1003
+
+Corrida: 0, Interacao: 1479, Minimos: ( 0.342002 , 0.116943 ), Funcao: 8.54642e-006
+Tempo: 502
+Corrida: 1, Interacao: 870, Minimos: ( 1.00004 , 1.00004 ), Funcao: 1.9184e-007
+Tempo: 454
+
+Sucesso, Tempo: 956
+
+Corrida: 0, Interacao: 1635, Minimos: ( 0.341399 , 0.116656 ), Funcao: 1.88083e-006
+Tempo: 523
+Corrida: 1, Interacao: 1826, Minimos: ( 0.99996 , 0.999863 ), Funcao: 1.02781e-006
+Tempo: 944
+
+Sucesso, Tempo: 1467
+
+Corrida: 0, Interacao: 2556, Minimos: ( 0.341075 , 0.11617 ), Funcao: 5.88837e-006
+Tempo: 951
+Corrida: 1, Interacao: 1851, Minimos: ( 0.999787 , 0.999586 ), Funcao: 5.93356e-006
+Tempo: 997
+
+Sucesso, Tempo: 1948
+
+Corrida: 0, Interacao: 2500, Minimos: ( 1.00001 , 0.999964 ), Funcao: 3.77245e-007
+Tempo: 819
+Corrida: 1, Interacao: 1203, Minimos: ( 0.341113 , 0.116364 ), Funcao: 6.73322e-007
+Tempo: 610
+
+Sucesso, Tempo: 1429
+
+Corrida: 0, Interacao: 806, Minimos: ( 0.341024 , 0.116518 ), Funcao: 4.92404e-006
+Tempo: 263
+Corrida: 1, Interacao: 2399, Minimos: ( 1.00011 , 1.00015 ), Funcao: 1.19018e-006
+Tempo: 1301
+
+Sucesso, Tempo: 1564
+
+Corrida: 0, Interacao: 1212, Minimos: ( 0.999948 , 0.999841 ), Funcao: 1.23356e-006
+Tempo: 409
+Corrida: 1, Interacao: 1436, Minimos: ( 0.341884 , 0.116952 ), Funcao: 8.53249e-006
+Tempo: 719
+
+Sucesso, Tempo: 1128
+
