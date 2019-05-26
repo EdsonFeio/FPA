@@ -1,0 +1,90 @@
+Corrida: 0, Interacao: 256, Minimos: ( 3.14235 , 2.27354 ), Funcao: 0.397891
+Tempo: 86
+Corrida: 1, Interacao: 5611, Minimos: ( -3.14164 , 12.2769 ), Funcao: 0.397891
+Tempo: 2268
+Corrida: 2, Interacao: 539, Minimos: ( 9.42591 , 2.47507 ), Funcao: 0.397894
+Tempo: 303
+
+Sucesso, Tempo: 2657
+
+Corrida: 0, Interacao: 322, Minimos: ( 3.14243 , 2.276 ), Funcao: 0.397893
+Tempo: 110
+Corrida: 1, Interacao: 3324, Minimos: ( -3.14134 , 12.274 ), Funcao: 0.397888
+Tempo: 1212
+Corrida: 2, Interacao: 1272, Minimos: ( 9.42466 , 2.47727 ), Funcao: 0.397893
+Tempo: 702
+
+Sucesso, Tempo: 2024
+
+Corrida: 0, Interacao: 257, Minimos: ( 3.14232 , 2.27391 ), Funcao: 0.39789
+Tempo: 69
+Corrida: 1, Interacao: 3324, Minimos: ( -3.14167 , 12.2753 ), Funcao: 0.397887
+Tempo: 1143
+Corrida: 2, Interacao: 543, Minimos: ( 9.42577 , 2.47691 ), Funcao: 0.397893
+Tempo: 286
+
+Sucesso, Tempo: 1498
+
+Corrida: 0, Interacao: 434, Minimos: ( 3.14246 , 2.27651 ), Funcao: 0.397896
+Tempo: 95
+Corrida: 1, Interacao: 1141, Minimos: ( -3.14032 , 12.2716 ), Funcao: 0.397895
+Tempo: 394
+Corrida: 2, Interacao: 798, Minimos: ( 9.4247 , 2.47435 ), Funcao: 0.397888
+Tempo: 419
+
+Sucesso, Tempo: 908
+
+Corrida: 0, Interacao: 232, Minimos: ( 3.14248 , 2.27297 ), Funcao: 0.397893
+Tempo: 61
+Corrida: 1, Interacao: 775, Minimos: ( -3.14029 , 12.2708 ), Funcao: 0.397897
+Tempo: 272
+Corrida: 2, Interacao: 883, Minimos: ( 9.42447 , 2.47343 ), Funcao: 0.39789
+Tempo: 464
+
+Sucesso, Tempo: 797
+
+Corrida: 0, Interacao: 395, Minimos: ( 3.14199 , 2.27257 ), Funcao: 0.397893
+Tempo: 93
+Corrida: 1, Interacao: 690, Minimos: ( -3.14237 , 12.2776 ), Funcao: 0.397891
+Tempo: 242
+Corrida: 2, Interacao: 590, Minimos: ( 9.42583 , 2.47394 ), Funcao: 0.397896
+Tempo: 319
+
+Sucesso, Tempo: 654
+
+Corrida: 0, Interacao: 342, Minimos: ( 3.14083 , 2.27747 ), Funcao: 0.397894
+Tempo: 86
+Corrida: 1, Interacao: 423, Minimos: ( 9.42594 , 2.47503 ), Funcao: 0.397895
+Tempo: 148
+Corrida: 2, Interacao: 1018, Minimos: ( -3.14129 , 12.2746 ), Funcao: 0.397888
+Tempo: 536
+
+Sucesso, Tempo: 770
+
+Corrida: 0, Interacao: 339, Minimos: ( -3.14221 , 12.2747 ), Funcao: 0.397892
+Tempo: 74
+Corrida: 1, Interacao: 205, Minimos: ( 9.42399 , 2.47585 ), Funcao: 0.397893
+Tempo: 85
+Corrida: 2, Interacao: 284, Minimos: ( 3.14243 , 2.27248 ), Funcao: 0.397894
+Tempo: 153
+
+Sucesso, Tempo: 312
+
+Corrida: 0, Interacao: 258, Minimos: ( 3.1419 , 2.27338 ), Funcao: 0.39789
+Tempo: 73
+Corrida: 1, Interacao: 9692, Minimos: ( -3.14142 , 12.2731 ), Funcao: 0.39789
+Tempo: 3493
+Corrida: 2, Interacao: 425, Minimos: ( 9.42399 , 2.4756 ), Funcao: 0.397892
+Tempo: 232
+
+Sucesso, Tempo: 3798
+
+Corrida: 0, Interacao: 465, Minimos: ( 3.14053 , 2.27607 ), Funcao: 0.397893
+Tempo: 146
+Corrida: 1, Interacao: 1523, Minimos: ( -3.14198 , 12.2734 ), Funcao: 0.397895
+Tempo: 521
+Corrida: 2, Interacao: 1881, Minimos: ( 9.42379 , 2.47627 ), Funcao: 0.397896
+Tempo: 992
+
+Sucesso, Tempo: 1659
+
